@@ -1,0 +1,6 @@
+<xml>
+<Summary>Краткое описание</Summary>
+<Severity>Серьезность</Severity>
+<StepsToReproduce>Шаги воспроизведения</StepsToReproduce>
+<Result>Фактический результат</Result>
+<ExpectedResult>Ожидаемый результат</ExpectedResult>
